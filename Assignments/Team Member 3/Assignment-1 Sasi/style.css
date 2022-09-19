@@ -1,0 +1,26 @@
+.name{
+    font-size: 50px;
+    color: blueviolet;
+    padding-left: 100px;
+    padding-top: 100px;
+    width: 300px;
+}
+.h{
+    color: green;
+    padding-left: 500px;
+    font-size: 50px;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    padding-left: 100px;
+}
+.btn{
+    border: 20px 40px;
+    border-color: red;
+    width: 100px;
+    height: 30px;
+}
+.btn:hover{
+    color: red;
+}
